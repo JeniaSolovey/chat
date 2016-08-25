@@ -3,3 +3,6 @@ c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\bin\Debu
 c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\bin\Debug\lernWcf.pdb
 c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\obj\Debug\lernWcf.exe
 c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\obj\Debug\lernWcf.pdb
+C:\Users\gsolo\Source\Repos\chat\lernWcf\bin\Debug\lernWcf.exe.config
+C:\Users\gsolo\Source\Repos\chat\lernWcf\obj\Debug\lernWcf.exe
+C:\Users\gsolo\Source\Repos\chat\lernWcf\obj\Debug\lernWcf.pdb

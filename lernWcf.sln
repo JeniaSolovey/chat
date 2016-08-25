@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 14 for Windows Desktop
+# Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lernWcf", "lernWcf\lernWcf.csproj", "{4DD4FC80-77BF-41E4-AE58-46E72FD6BC30}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{07CB2C16-F9DA-4BC4-AF12-DCBDC818B66D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{3B51B4BC-184F-48EC-9AB6-42E7C7E440F3}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4DD4FC80-77BF-41E4-AE58-46E72FD6BC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DD4FC80-77BF-41E4-AE58-46E72FD6BC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DD4FC80-77BF-41E4-AE58-46E72FD6BC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DD4FC80-77BF-41E4-AE58-46E72FD6BC30}.Release|Any CPU.Build.0 = Release|Any CPU
 		{07CB2C16-F9DA-4BC4-AF12-DCBDC818B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07CB2C16-F9DA-4BC4-AF12-DCBDC818B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07CB2C16-F9DA-4BC4-AF12-DCBDC818B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
