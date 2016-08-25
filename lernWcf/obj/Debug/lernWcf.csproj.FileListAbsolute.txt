@@ -1,0 +1,5 @@
+c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\bin\Debug\lernWcf.exe.config
+c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\bin\Debug\lernWcf.exe
+c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\bin\Debug\lernWcf.pdb
+c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\obj\Debug\lernWcf.exe
+c:\users\soloveyy\documents\visual studio 2015\Projects\lernWcf\lernWcf\obj\Debug\lernWcf.pdb

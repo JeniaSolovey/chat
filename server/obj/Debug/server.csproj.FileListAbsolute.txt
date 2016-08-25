@@ -1,0 +1,8 @@
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\bin\Debug\server.exe.config
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\bin\Debug\server.exe
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\bin\Debug\server.pdb
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\bin\Debug\lernWcf.exe
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\bin\Debug\lernWcf.pdb
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\obj\Debug\server.exe
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\server\obj\Debug\server.pdb

@@ -1,0 +1,6 @@
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\client\bin\Debug\client.exe.config
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\client\bin\Debug\client.exe
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\client\bin\Debug\client.pdb
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\client\obj\Debug\client.exe
+c:\Users\soloveyy\documents\visual studio 2015\Projects\lernWcf\client\obj\Debug\client.pdb
+C:\Users\soloveyy\Documents\Visual Studio 2015\Projects\lernWcf\client\obj\Debug\client.csprojResolveAssemblyReference.cache
